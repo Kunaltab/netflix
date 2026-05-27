@@ -13,7 +13,7 @@ DATA_PATH = Path(__file__).with_name("netflix_data.csv")
 # ---------------------------------
 st.set_page_config(
     page_title="Netflix Intelligence Dashboard",
-    layout="wide"
+    layout="wide"fgyi7ut7
 )
 
 # ---------------------------------
